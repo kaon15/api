@@ -5,4 +5,4 @@
      
    [Principais Atividades](https://raw.githubusercontent.com/kaon15/api/refs/heads/main/principais-atividades.json)
         
-   [Razões Globai](https://raw.githubusercontent.com/kaon15/api/refs/heads/main/razoes-globais.json)
+   [Razões Globais](https://raw.githubusercontent.com/kaon15/api/refs/heads/main/razoes-globais.json)
