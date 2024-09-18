@@ -1,1 +1,2 @@
 # api
+# Dados Globais
